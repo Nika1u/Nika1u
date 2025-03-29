@@ -1,3 +1,2 @@
-### Olá, eu sou Nicolas Gabriel 👋
-
-script("Fatec - GTI")
+### Olá, eu sou Nicolas Gabriel👋
+### Fatec - GTI
